@@ -10,5 +10,5 @@ Liskov Subtitution Principle
 Interface segregation Principle
 Dependency Inversion Principle
 Dependency 2
-
+dependecy 3
 
